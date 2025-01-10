@@ -50,5 +50,5 @@ Uses BCryptPasswordEncoder for securely hashing passwords.
 5. Thymeleaf: For building server-side HTML templates.
 6. MySql: Used to store user's data.
 # Frontend
-HTML5, CSS3: For designing the user interface.
-Thymeleaf: Integrated template engine for dynamic content rendering.
+1. HTML5, CSS3: For designing the user interface.
+2. Thymeleaf: Integrated template engine for dynamic content rendering.
