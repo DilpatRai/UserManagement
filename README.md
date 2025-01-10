@@ -43,12 +43,12 @@ Uses BCryptPasswordEncoder for securely hashing passwords.
 
 # Technology Used
 # Backend
-Java 17: Programming language used to build the application.
-Spring Boot 3.x: Framework for rapid application development.
-Spring Security: For authentication, authorization, and password encryption.
-Spring Data JPA: For database interaction using the Java Persistence API (JPA).
-Thymeleaf: For building server-side HTML templates.
-Hibernate: ORM framework for mapping Java objects to relational database tables.
+1. Java 17: Programming language used to build the application.
+2. Spring Boot 3.x: Framework for rapid application development.
+3. Spring Security: For authentication, authorization, and password encryption.
+4. Spring Data JPA: For database interaction using the Java Persistence API (JPA).
+5. Thymeleaf: For building server-side HTML templates.
+6. MySql: Used to store user's data.
 # Frontend
 HTML5, CSS3: For designing the user interface.
 Thymeleaf: Integrated template engine for dynamic content rendering.
